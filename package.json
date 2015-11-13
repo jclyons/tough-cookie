@@ -1,31 +1,6 @@
 {
   "author": "Jeremy Stashewsky <jstashewsky@salesforce.com>",
-  "contributors": [
-    {
-      "name": "Alexander Savin",
-      "website": "https://github.com/apsavin"
-    },
-    {
-      "name": "Ian Livingstone",
-      "website": "https://github.com/ianlivingstone"
-    },
-    {
-      "name": "Ivan Nikulin",
-      "website": "https://github.com/inikulin"
-    },
-    {
-      "name": "Lalit Kapoor",
-      "website": "https://github.com/lalitkapoor"
-    },
-    {
-      "name": "Sam Thompson",
-      "website": "https://github.com/sambthompson"
-    },
-    {
-      "name": "Sebastian Mayr",
-      "website": "https://github.com/Sebmaster"
-    }
-  ],
+  "contributors": ["Alexander Savin","Ian Livingstone","Ivan Nikulin","Lalit Kapoor","Sam Thompson","Sebastian Mayr"],
   "license": "BSD-3-Clause",
   "name": "tough-cookie",
   "description": "RFC6265 Cookies and Cookie Jar for node.js",
